@@ -44,4 +44,4 @@ src/
 - **ESLint** - Code linting and formatting
 
 ### Author 
-Sunitha
+Sunitha Vallepu
